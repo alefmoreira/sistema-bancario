@@ -1,2 +1,3 @@
 # sistema-bancario
-Desafio da Formação Python Developer da plataforma DIO.
+Criando um Sistema bancario com funcionalidade simples (Deposito, Saque, extrato).
+Utilizando conhecimentos adquiridos na Formação Python Developer da plataform DIO.me
